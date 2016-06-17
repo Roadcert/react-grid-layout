@@ -1,6 +1,6 @@
 {
-  "name": "react-grid-layout",
-  "version": "0.12.6",
+  "name": "react-grid-layout-roadcert-edition",
+  "version": "0.1.0",
   "description": "A draggable and resizable grid layout with responsive breakpoints, for React.",
   "main": "index.js",
   "scripts": {
@@ -14,7 +14,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git@github.com:STRML/react-grid-layout.git"
+    "url": "git@github.com:Roadcert/react-grid-layout.git"
   },
   "keywords": [
     "react",
@@ -26,20 +26,16 @@
     "fluid",
     "responsive"
   ],
-  "author": "Samuel Reed <samuel.trace.reed@gmail.com> (http://strml.net/)",
+  "author": "James Cordeiro,
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/STRML/react-grid-layout/issues"
+    "url": "https://github.com/Roadcert/react-grid-layout/issues"
   },
-  "homepage": "https://github.com/STRML/react-grid-layout",
+  "homepage": "https://github.com/Roadcert/react-grid-layout",
   "dependencies": {
     "lodash.isequal": "^4.0.0",
     "react-draggable": "^2.1.1",
     "react-resizable": "^1.4.0"
-  },
-  "peerDependencies": {
-    "react": "^0.14.3 || ^15.0.0",
-    "react-dom": "^0.14.3 || ^15.0.0"
   },
   "devDependencies": {
     "babel-cli": "^6.5.1",
